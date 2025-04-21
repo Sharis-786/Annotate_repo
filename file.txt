@@ -1,2 +1,1 @@
-Changes from branch B
-Changes from branch B
+Test commit
